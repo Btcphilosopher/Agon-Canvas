@@ -1,0 +1,6 @@
+{
+  "name": "AGON Canvas",
+  "description": "Museum-grade canvas printing website engineered with luxury materials, tactile custom configurator, live textures, size comparisons, and an elegant checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
